@@ -61,14 +61,14 @@ Connecting your SQL database with power bi:
 
 Summary of analysis in power bi:
 
-1. Sales by gender:
+1. Sum of customers by gender:
 - There is a little gender disparity in the total number of clients, with males and females making up the majority.
 
 2. Sales by Month:
 - March had peak sales of approximately 91 million, while sales in January, June, and December are lower.
 - Sales decline following March, reaching a low point in August and then gradually increasing in December.
 
-3. Sales by Age:
+3. Sum of customers by Age:
 The sales data pertaining to age indicates that sales are concentrated in the younger population, most likely those in the 20–40 age range.
 
 4. Sales by Store:
@@ -77,8 +77,6 @@ While many other businesses display considerably lower results, some stores (Sto
 5. Sales by Type of Product:
 The best-selling categories are computers, TV and video, and cameras and camcorders, then home appliances.
 Comparatively, the categories with the lowest sales include cell phones and audio.
-
-
 
 6. Sales by Continent or Geography:
 The two continents with the largest concentration of sales, North America and Europe, dominate the sales areas.
